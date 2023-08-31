@@ -1,2 +1,2 @@
 # cis320repository
-course repository
+course repository for students
